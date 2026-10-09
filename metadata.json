@@ -1,0 +1,7 @@
+{
+  "name": "Asistente Turístico Colombia IA",
+  "description": "Un asistente turístico virtual impulsado por IA que proporciona información confiable y actualizada sobre destinos, rutas y recomendaciones de turismo sostenible en Colombia. Pregunta por playas, montañas, ciudades y más.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
